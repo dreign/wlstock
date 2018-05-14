@@ -1,7 +1,6 @@
 {"pages": [
-  "pages/about"
+  "pages/about/about"
 ],
-
 "window": {
   "backgroundTextStyle": "light",
   "navigationBarBackgroundColor": "#fff",
